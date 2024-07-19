@@ -1,5 +1,5 @@
 # Defi Vault
-Aave Vault and Balancer Vault which is built by ERC4626 standard
+Aave and Balancer Vault which is built by ERC4626 standard
 
 ## Run Tests
 ```
